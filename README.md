@@ -22,6 +22,8 @@ pip install django
 
 
 To create a project we are using syntax 
+
+
         ->django-admin startproject name_of_the_project
         now change dir by cd name_of_the_project
         and open code editer by (code .)
