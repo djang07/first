@@ -19,10 +19,14 @@ pip install django
             pip list
 
 -----------------------------------------------------------------------------------
+
+
 To create a project we are using syntax 
         ->django-admin startproject name_of_the_project
         now change dir by cd name_of_the_project
         and open code editer by (code .)
+
+        
         in terminal change to cmd and run a command to run our project 
                 --->python manage.py runserver
                 we get a http link copy and paste in browser 
